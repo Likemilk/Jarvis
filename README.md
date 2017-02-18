@@ -3,12 +3,14 @@
   - 추운 겨울날 전화를 받거나 음악들 듣기위해 주머니에서 손을 빼는것이 싫었다.
   - 무엇보다 핸드폰에 대고 '자비스?' 라고 말해주고 싶었다. '시리', '오케이구글' 보다...
 
+# 프로젝트 특징
+
  1. 소스코드보다 산출 문서의 학술 논문들이 메인.
  2. 내가 우수논문상을 받게되다니
 
 # 실행화면
 
- ![자비스 실행 화면]()
+ ![자비스 실행 화면](https://github.com/drake-jin/Jarvis/raw/master/docs/%EA%B7%B8%EB%A6%BC1.png)
 
 # Jarvis의 특징
  
@@ -18,7 +20,7 @@
 
 # 작동
  
- ![작동]()
+ ![작동](https://github.com/drake-jin/Jarvis/raw/master/docs/working.png)
  
  1. 핸드폰을 키고 5초 이내에 흔든다.
  2. '자비스?' 라고 말한다.
@@ -28,10 +30,10 @@
  6. 4번과 5번은 앱의 설치와 미디어파일의 발생시점에서 SQLite에 미디어파일의 이름을 저장하기 때문에 가능하다.
  
 # 산출 문서
- - [융복합지식학술대회2016 우수상장]()
- - [Jarvis로 발표한 자료]()
+ - [융복합지식학술대회2016 우수상장](https://github.com/drake-jin/Jarvis/raw/master/docs/%5B%EC%83%81%EC%9E%A5%5D2015%20%EC%B6%94%EA%B3%84%ED%95%99%EC%88%A0%EB%8C%80%ED%9A%8C-%EC%9A%B0%EC%88%98%EB%85%BC%EB%AC%B8%EC%83%81.jpg)
+ - [Jarvis로 발표한 자료](https://github.com/drake-jin/Jarvis/raw/master/docs/%EC%8B%9C%EA%B0%81%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20%ED%99%88%20%EB%A9%94%EB%89%B4%20UI.UX%20%EC%84%A4%EA%B3%84.pdf)
  - [Jarvis로 쓴 논문](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE06606108?TotalCount=1&Seq=1&q=%5B%EC%A0%91%EA%B7%BC%EC%84%B1%20%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%8B%9C%EA%B0%81%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9A%A9%20%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%20%EB%A9%94%EB%89%B4%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84%C2%A7coldb%C2%A72%C2%A751%C2%A73%5D&searchWord=%EC%A0%84%EC%B2%B4%3D%5E%24%EC%A0%91%EA%B7%BC%EC%84%B1%20%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%8B%9C%EA%B0%81%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9A%A9%20%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%20%EB%A9%94%EB%89%B4%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84%5E*&Multimedia=0&isIdentifyAuthor=0&Collection=0&SearchAll=%EC%A0%91%EA%B7%BC%EC%84%B1%20%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%8B%9C%EA%B0%81%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9A%A9%20%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%20%EB%A9%94%EB%89%B4%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84&isFullText=0&specificParam=0&SearchMethod=0&Sort=1&SortType=desc&Page=1&PageSize=20)
- - [Jarvis에서 파생된 웹UI/UX 발표자료]()
+ - [Jarvis에서 파생된 웹UI/UX 발표자료](https://github.com/drake-jin/Jarvis/raw/master/docs/%EC%8B%9C%EA%B0%81%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80%20UI.UX%20%EC%84%A4%EA%B3%84.pdf)
  - [Jarvis에서 파생된 웹UI/UX 논문](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE06554544?TotalCount=2&Seq=1&q=%5B%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%20%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%20%EC%8B%9C%EA%B0%81%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%9B%B9UX%20%EA%B5%AC%EC%A1%B0%20%EC%84%A4%EA%B3%84%C2%A7coldb%C2%A72%C2%A751%C2%A73%5D&searchWord=%EC%A0%84%EC%B2%B4%3D%5E%24%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%20%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%20%EC%8B%9C%EA%B0%81%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%9B%B9UX%20%EA%B5%AC%EC%A1%B0%20%EC%84%A4%EA%B3%84%5E*&Multimedia=0&isIdentifyAuthor=0&Collection=0&SearchAll=%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%20%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%20%EC%8B%9C%EA%B0%81%EC%9E%A5%EC%95%A0%EC%9D%B8%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%9B%B9UX%20%EA%B5%AC%EC%A1%B0%20%EC%84%A4%EA%B3%84&isFullText=0&specificParam=0&SearchMethod=0&Sort=1&SortType=desc&Page=1&PageSize=20)
 
 
